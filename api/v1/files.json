@@ -1,0 +1,29 @@
+[
+    {
+      "id": "local-file-1",
+  
+      "name": "Flutter Guide.pdf",
+  
+      "type": "pdf",
+  
+      "path": "/storage/emulated/0/Download/flutter-guide.pdf",
+  
+      "size": "12 MB",
+  
+      "downloadedAt": "2026-05-11"
+    },
+  
+    {
+      "id": "local-app-1",
+  
+      "name": "Spotify Premium.apk",
+  
+      "type": "apk",
+  
+      "path": "/storage/emulated/0/Download/spotify.apk",
+  
+      "size": "78 MB",
+  
+      "downloadedAt": "2026-05-11"
+    }
+  ]

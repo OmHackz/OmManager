@@ -1,0 +1,37 @@
+[
+    {
+      "id": "ommanager-release",
+  
+      "title": "OmManager v1 Released",
+  
+      "subtitle": "A modern Material You content manager.",
+  
+      "thumbnail": "https://yourcdn.com/news/release.png",
+  
+      "author": "Om Sarkar",
+  
+      "date": "2026-05-11",
+  
+      "category": "Updates",
+  
+      "markdown": "# OmManager Released\n\nWelcome to the first version of OmManager.\n\n## Features\n\n- Material You UI\n- App downloads\n- PDF downloads\n- Offline support\n- Dynamic themes\n\nEnjoy the app!"
+    },
+  
+    {
+      "id": "new-apps",
+  
+      "title": "New Apps Added",
+  
+      "subtitle": "Spotify and YouTube ReVanced are now available.",
+  
+      "thumbnail": "https://yourcdn.com/news/apps.png",
+  
+      "author": "Om Team",
+  
+      "date": "2026-05-10",
+  
+      "category": "Apps",
+  
+      "markdown": "# New Apps\n\nWe added several new apps to OmManager.\n\nCheck the AppStore page now."
+    }
+  ]

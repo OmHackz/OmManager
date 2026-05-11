@@ -1,0 +1,100 @@
+[
+    {
+      "id": "youtube-revanced",
+      "name": "YouTube ReVanced",
+      "version": "19.16.39",
+      "size": "92 MB",
+      "downloads": "1.2M",
+      "category": "Entertainment",
+      "developer": "ReVanced Team",
+  
+      "description": "Advanced YouTube client with premium features and ad blocking support.",
+  
+      "icon": "https://yourcdn.com/icons/revanced.png",
+  
+      "banner": "https://yourcdn.com/banners/revanced-banner.png",
+  
+      "screenshots": [
+        "https://yourcdn.com/screenshots/revanced-1.png",
+        "https://yourcdn.com/screenshots/revanced-2.png",
+        "https://yourcdn.com/screenshots/revanced-3.png"
+      ],
+  
+      "downloadUrl": "https://yourcdn.com/apks/revanced.apk",
+  
+      "packageName": "app.revanced.android.youtube",
+  
+      "lastUpdated": "2026-05-11",
+  
+      "rating": 4.8,
+  
+      "tags": [
+        "YouTube",
+        "Premium",
+        "Modded"
+      ],
+  
+      "permissions": [
+        "Storage",
+        "Network Access",
+        "Notifications"
+      ],
+  
+      "changelog": [
+        "Improved performance",
+        "Fixed crashes",
+        "Updated patches"
+      ]
+    },
+  
+    {
+      "id": "spotify-modded",
+  
+      "name": "Spotify Premium",
+  
+      "version": "9.0.42",
+  
+      "size": "78 MB",
+  
+      "downloads": "950K",
+  
+      "category": "Music",
+  
+      "developer": "Spotify Ltd",
+  
+      "description": "Music streaming app with premium unlocked.",
+  
+      "icon": "https://yourcdn.com/icons/spotify.png",
+  
+      "banner": "https://yourcdn.com/banners/spotify-banner.png",
+  
+      "screenshots": [
+        "https://yourcdn.com/screenshots/spotify-1.png",
+        "https://yourcdn.com/screenshots/spotify-2.png"
+      ],
+  
+      "downloadUrl": "https://yourcdn.com/apks/spotify.apk",
+  
+      "packageName": "com.spotify.music",
+  
+      "lastUpdated": "2026-05-10",
+  
+      "rating": 4.6,
+  
+      "tags": [
+        "Music",
+        "Streaming",
+        "Premium"
+      ],
+  
+      "permissions": [
+        "Storage",
+        "Bluetooth"
+      ],
+  
+      "changelog": [
+        "New UI improvements",
+        "Better playback quality"
+      ]
+    }
+  ]

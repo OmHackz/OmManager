@@ -1,0 +1,74 @@
+[
+    {
+      "id": "flutter-complete-guide",
+  
+      "title": "Flutter Complete Guide",
+  
+      "author": "Om Sarkar",
+  
+      "pages": 240,
+  
+      "size": "12 MB",
+  
+      "rating": 4.9,
+  
+      "downloads": "18K",
+  
+      "category": "Programming",
+  
+      "description": "A beginner to advanced Flutter learning guide.",
+  
+      "cover": "https://yourcdn.com/covers/flutter-guide.png",
+  
+      "previewImages": [
+        "https://yourcdn.com/previews/flutter-1.png",
+        "https://yourcdn.com/previews/flutter-2.png"
+      ],
+  
+      "downloadUrl": "https://yourcdn.com/pdfs/flutter-guide.pdf",
+  
+      "lastUpdated": "2026-05-11",
+  
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Mobile Development"
+      ]
+    },
+  
+    {
+      "id": "ai-handbook",
+  
+      "title": "AI Handbook",
+  
+      "author": "Open Research",
+  
+      "pages": 180,
+  
+      "size": "8 MB",
+  
+      "rating": 4.7,
+  
+      "downloads": "9K",
+  
+      "category": "Artificial Intelligence",
+  
+      "description": "Introduction to modern AI systems and machine learning.",
+  
+      "cover": "https://yourcdn.com/covers/ai-book.png",
+  
+      "previewImages": [
+        "https://yourcdn.com/previews/ai-1.png"
+      ],
+  
+      "downloadUrl": "https://yourcdn.com/pdfs/ai-handbook.pdf",
+  
+      "lastUpdated": "2026-05-09",
+  
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Technology"
+      ]
+    }
+  ]
